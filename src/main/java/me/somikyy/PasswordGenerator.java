@@ -3,6 +3,7 @@ package me.somikyy;
 import java.util.Random;
 
 public class PasswordGenerator {
+    public static final int MAX_PASSWORD_LENGTH = 2000;
     public static String generatePassword(int length, boolean upperCase, boolean lowerCase, boolean specialChar, boolean number, boolean superspecial) {
         String upperCaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String lowerCaseChars = "abcdefghijklmnopqrstuvwxyz";

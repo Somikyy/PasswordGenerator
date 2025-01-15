@@ -1,2 +1,2 @@
 # PasswordGenerator
- Easy Password Generator Wrotten on JAVA
+ Easy Password Generator Written on JAVA
